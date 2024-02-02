@@ -1,4 +1,4 @@
-setwd("D:/STUDIES/BA with R/PROJECT")
+setwd("R/PROJECT")
 
 hmeq<- read.csv("hmeq_cleaned.csv")
 
